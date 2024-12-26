@@ -1,0 +1,23 @@
+.style-one{
+    background-color: rgb(196, 56, 177);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.style-two{
+    font-size: 24px;
+}
+
+#id-one{
+    background-color: rgb(255, 255, 255);
+    color: hsl(246, 84%, 45%);
+    font-size: 36px;
+}
+
+#id-two{
+    background-color: rgb(24, 156, 64);
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: bold;
+}
